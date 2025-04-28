@@ -20,7 +20,7 @@ Built with React, Bootstrap, and lots of creativity!
 
 ## 📄 Project Features
 
-- ⚡ Funky, colorful, animated portfolio website
+- ⚡ Colorful, animated portfolio website
 - 🎨 Customized background gradients
 - 🚀 Smooth animations using `react-awesome-reveal`
 - 📄 Download Resume button (planned)
