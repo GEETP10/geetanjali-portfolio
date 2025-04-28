@@ -29,5 +29,4 @@ Built with React, Bootstrap, and lots of creativity!
 
 ---
 
-## 🧩 Folder Structure
 
