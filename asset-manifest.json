@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/geetanjali-portfolio/static/css/main.d6fb8095.css",
-    "main.js": "/geetanjali-portfolio/static/js/main.db47b603.js",
+    "main.js": "/geetanjali-portfolio/static/js/main.5bc52d24.js",
     "index.html": "/geetanjali-portfolio/index.html",
     "main.d6fb8095.css.map": "/geetanjali-portfolio/static/css/main.d6fb8095.css.map",
-    "main.db47b603.js.map": "/geetanjali-portfolio/static/js/main.db47b603.js.map"
+    "main.5bc52d24.js.map": "/geetanjali-portfolio/static/js/main.5bc52d24.js.map"
   },
   "entrypoints": [
     "static/css/main.d6fb8095.css",
-    "static/js/main.db47b603.js"
+    "static/js/main.5bc52d24.js"
   ]
 }
