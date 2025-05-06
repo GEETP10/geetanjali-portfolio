@@ -1,28 +1,27 @@
 
 import {Fade} from 'react-awesome-reveal';
+import React from 'react';
+
 function Projects() {
   return (
-    <Fade direction="up" trigger0nce>
-      <section className="container py-5">
-      <h2 className="text-center mb-4">🎯 Projects</h2>
-      <div className="row">
-        <div className="col-md-6 mb-4">
-          <div className="card shadow p-3">
-            <h4>AWS IAM Audit Scripts</h4>
-            <p>Python scripts for IAM security auditing 🔐</p>
-            <a href="https://github.com/GEETP10/aws-iam-audit-scripts" className="btn btn-primary">View Project</a>
-          </div>
-        </div>
-        <div className="col-md-6 mb-4">
-          <div className="card shadow p-3">
-            <h4>Incident Response Bot</h4>
-            <p>AI-powered GuardDuty threat triage and automation 🤖☁️</p>
-            <a href="https://github.com/GEETP10/incident-response-bot" className="btn btn-primary">View Project</a>
-          </div>
-        </div>
-      </div>
-     </section>
-    </Fade>
+    <div style={{ padding: '2rem', maxWidth: '900px', margin: '0 auto' }}>
+      <h1>Projects</h1>
+
+      <h3>TaskNest – React Web App</h3>
+      <p>
+        A dynamic task planner with login/auth, weekly view, filters, and CRUD support. Built using React.js, REST API, and deployed on GitHub Pages.
+      </p>
+
+      <h3>Operating System Simulation</h3>
+      <p>
+        A CLI-based system simulator in C that implements process scheduling (Round Robin, Priority), memory management, and file I/O simulation.
+      </p>
+
+      <h3>TCP/IP Networking Toolkit</h3>
+      <p>
+        A client-server chat app using TCP sockets in C++, including command parsing, packet simulation, and live debugging with Wireshark and netstat.
+      </p>
+    </div>
   );
 }
 

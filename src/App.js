@@ -9,7 +9,7 @@ import Contact from './components/Contact';
 
 function App() {
   return (
-    <div className="App" style={{backgroundColor: "#E6CCFF"}}>
+    <div className="App" style={{backgroundColor: "#D3D3D3"}}>
       <Header />
       <About />
       <Experience />
