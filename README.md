@@ -1,4 +1,4 @@
-## 🚀 Geetanjali Paturi's Cloud Portfolio
+## 🚀 Geetanjali Paturi's Portfolio
 
 Welcome to my personal cloud portfolio website! 🌟  
 Built with React, Bootstrap, and lots of creativity!
